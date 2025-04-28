@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 
-<img src="https://github.com/Anderson3145/Responsividade-Solo/blob/master/assets/desktop.png?raw=true" alt="image_desktop" />
-<img src="https://github.com/Anderson3145/Responsividade-Solo/blob/master/assets/mobile.png?raw=true" alt="image_mobile" width:"300px" />
-
+<p align="center">
+  <img src="https://github.com/Anderson3145/Responsividade-Solo/blob/master/assets/desktop.png?raw=true" alt="Versão Desktop" width="700">
+  <img src="https://github.com/Anderson3145/Responsividade-Solo/blob/master/assets/mobile.png?raw=true" alt="Versão Mobile" width="200">
+</p>
