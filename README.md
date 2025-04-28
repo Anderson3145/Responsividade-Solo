@@ -10,13 +10,13 @@
 <br>
 <br>
 <h2 align="center">
-  Nesse projeto foi utilizado as seguintes tecnologias:
+  Nesse projeto foram utilizadas as seguintes tecnologias:
 </h2>
 <br>
 <br>
 <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 
-<img src="https://github.com/Anderson3145/Responsividade-Solo/blob/master/assets/desktop.png?raw=true"/>
-<img src="https://github.com/Anderson3145/Responsividade-Solo/blob/master/assets/mobile.png?raw=true"/>
+<img src="https://github.com/Anderson3145/Responsividade-Solo/blob/master/assets/desktop.png?raw=true" alt="image_desktop" />
+<img src="https://github.com/Anderson3145/Responsividade-Solo/blob/master/assets/mobile.png?raw=true" alt="image_mobile" width:"300px" />
 
